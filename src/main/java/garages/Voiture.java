@@ -49,7 +49,7 @@ public class Voiture {
 		Stationnement dernierStationnement = myStationnements.get(myStationnements.size() - 1);
 		dernierStationnement.terminer();
 	}
-
+//a
 	/**
 	 * Calcule l'ensemble des garages visités par cette voiture.
 	 *
